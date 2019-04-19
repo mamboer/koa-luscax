@@ -1,34 +1,35 @@
-# koa-lusca
+# koa-xlusca
 
 [![NPM version][npm-image]][npm-url]
 [![build status][travis-image]][travis-url]
 [![Test coverage][coveralls-image]][coveralls-url]
-[![Gittip][gittip-image]][gittip-url]
 [![David deps][david-image]][david-url]
 [![npm download][download-image]][download-url]
 
-[npm-image]: https://img.shields.io/npm/v/koa-lusca.svg?style=flat-square
-[npm-url]: https://npmjs.org/package/koa-lusca
-[travis-image]: https://img.shields.io/travis/koajs/koa-lusca.svg?style=flat-square
-[travis-url]: https://travis-ci.org/koajs/koa-lusca
-[coveralls-image]: https://img.shields.io/coveralls/koajs/koa-lusca.svg?style=flat-square
-[coveralls-url]: https://coveralls.io/r/koajs/koa-lusca?branch=master
-[gittip-image]: https://img.shields.io/gittip/fengmk2.svg?style=flat-square
-[gittip-url]: https://www.gittip.com/fengmk2/
-[david-image]: https://img.shields.io/david/koajs/koa-lusca.svg?style=flat-square
-[david-url]: https://david-dm.org/koajs/koa-lusca
-[download-image]: https://img.shields.io/npm/dm/koa-lusca.svg?style=flat-square
-[download-url]: https://npmjs.org/package/koa-lusca
+[npm-image]: https://img.shields.io/npm/v/koa-xlusca.svg?style=flat-square
+[npm-url]: https://npmjs.org/package/koa-xlusca
+[travis-image]: https://img.shields.io/travis/mamboer/koa-xlusca.svg?style=flat-square
+[travis-url]: https://travis-ci.org/mamboer/koa-xlusca
+[coveralls-image]: https://img.shields.io/coveralls/mamboer/koa-xlusca.svg?style=flat-square
+[coveralls-url]: https://coveralls.io/r/mamboer/koa-xlusca?branch=master
+[david-image]: https://img.shields.io/david/mamboer/koa-xlusca.svg?style=flat-square
+[david-url]: https://david-dm.org/mamboer/koa-xlusca
+[download-image]: https://img.shields.io/npm/dm/koa-xlusca.svg?style=flat-square
+[download-url]: https://npmjs.org/package/koa-xlusca
 
-Web application security middleware for koa.
+Web application security middleware for the latest koa 2.x.
 
-Fork from [lusca](https://github.com/krakenjs/lusca), [krakenjs/lusca#26](https://github.com/krakenjs/lusca/pull/26).
+Fork from [koa-lusca](https://github.com/chrisveness/koa-lusca),
+
+> It's a pity that [koa-lusca](https://github.com/koajs/koa-lusca) is out of maintenances for over 3 years, so i made this fork and re-released it as koa-xlusca, and let's keep it fresh.
+
+
 
 ## Usage
 
 ```js
 const Koa = require('koa');
-const lusca = require('koa-lusca');
+const lusca = require('koa-xlusca');
 const app = new Koa();
 
 app.use(lusca({
