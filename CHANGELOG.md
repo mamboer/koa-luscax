@@ -1,3 +1,9 @@
+1.0.0 / 2019-04-19
+==================
+
+  * Re-release as koa-xlusca
+  * Koa v2.7
+  * Upgrade the node engine to v10 and above.
 
 3.0.0 / 2018-03-12
 ==================

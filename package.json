@@ -27,7 +27,7 @@
     "email": "mamboer@gmail.com"
   },
   "engines": {
-    "node": ">=8"
+    "node": ">=10"
   },
   "engineStrict": true,
   "dependencies": {
