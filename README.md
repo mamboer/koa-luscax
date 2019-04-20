@@ -136,32 +136,33 @@ Enables [Referrer-Policy](https://www.w3.org/TR/referrer-policy/#intro) header t
 
 ## Origin Contributors Of koa-lusca
 
-Jeff Harrell <jeff@juxtadesign.com> (https://github.com/jeffharrell)
-Jeff Harrell <jeharrell@paypal.com>
-Erik Toth <ertoth@paypal.com>
-rragan <rragan@ebay.com>
-skoranga <skoranga@paypal.com>
-Lenny Markus <lmarkus@paypal.com> (https://github.com/lmarkus)
-totherik <totherik@gmail.com>
-Lenny Markus <lensam69@yahoo.com>
-Trevor <tlivings@gmail.com>
-Steve Stedman <sstedman@paypal.com>
-AlexSantos <santosam72@gmail.com>
-mstuart <stuartmark@gmail.com>
-swesthafer <swesthafer@paypal.com>
-Dmitry Shirokov <deadrunk@gmail.com> (https://github.com/runk)
-Sahat Yalkabov <sakhat@gmail.com>
-fengmk2 <fengmk2@gmail.com> (https://github.com/fengmk2)
-Anant Singh <anantsingh@paypal.com>
-Aria Stewart <aredridel@dinhe.net> (https://github.com/aredridel)
-Jean-Charles Sisk <jasisk@gmail.com>
-Matt Edelman <medelman@paypal.com>
-Ilya Radchenko <ilya@burstcreations.com>
-Poornima Venkat <pvenkatakrishnan@paypal.com>
-ali-sdk <m@fengmk2.com> (https://github.com/ali-sdk)
-fundon <cfddream@gmail.com>
-Christoffer Hallas <hallas@users.noreply.github.com>
-Geller <geller@Gellers-MacBook-Pro.local>
-Marek Fajkus <marek.faj@gmail.com> (https://github.com/turboMaCk)
-Shawn <shaoshuai0102@gmail.com> (https://github.com/shaoshuai0102)
-Chris Veness <chrisv@movable-type.co.uk>
+- Jeff Harrell <jeff@juxtadesign.com> (https://github.com/jeffharrell)
+- Jeff Harrell <jeharrell@paypal.com>
+- Erik Toth <ertoth@paypal.com>
+- rragan <rragan@ebay.com>
+- skoranga <skoranga@paypal.com>
+- Lenny Markus <lmarkus@paypal.com> (https://github.com/lmarkus)
+- totherik <totherik@gmail.com>
+- Lenny Markus <lensam69@yahoo.com>
+- Trevor <tlivings@gmail.com>
+- Steve Stedman <sstedman@paypal.com>
+- AlexSantos <santosam72@gmail.com>
+- mstuart <stuartmark@gmail.com>
+- swesthafer <swesthafer@paypal.com>
+- Dmitry Shirokov <deadrunk@gmail.com> (https://github.com/runk)
+- Sahat Yalkabov <sakhat@gmail.com>
+- fengmk2 <fengmk2@gmail.com> (https://github.com/fengmk2)
+- Anant Singh <anantsingh@paypal.com>
+- Aria Stewart <aredridel@dinhe.net> (https://github.com/aredridel)
+- Jean-Charles Sisk <jasisk@gmail.com>
+- Matt Edelman <medelman@paypal.com>
+- Ilya Radchenko <ilya@burstcreations.com>
+- Poornima Venkat <pvenkatakrishnan@paypal.com>
+- ali-sdk <m@fengmk2.com> (https://github.com/ali-sdk)
+- fundon <cfddream@gmail.com>
+- Christoffer Hallas <hallas@users.noreply.github.com>
+- Geller <geller@Gellers-MacBook-Pro.local>
+- Marek Fajkus <marek.faj@gmail.com> (https://github.com/turboMaCk)
+- Shawn <shaoshuai0102@gmail.com> (https://github.com/shaoshuai0102)
+- Chris Veness <chrisv@movable-type.co.uk>
+
