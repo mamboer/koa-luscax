@@ -1,7 +1,12 @@
 {
-  "name": "koa-xlusca",
+  "name": "koa-luscax",
   "version": "1.0.0",
   "description": "Web application security middleware for koa.",
+  "keywords": [
+    "lusca",
+    "koa-lusca",
+    "koa-luscax"
+  ],
   "license": "MIT",
   "main": "index.js",
   "files": [
@@ -17,10 +22,10 @@
     "cnpm": "npm install --registry=https://registry.npm.taobao.org",
     "contributors": "contributors -f plain -o AUTHORS"
   },
-  "homepage": "https://github.com/mamboer/koa-xlusca",
+  "homepage": "https://github.com/mamboer/koa-luscax",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mamboer/koa-xlusca.git"
+    "url": "https://github.com/mamboer/koa-luscax.git"
   },
   "author": {
     "name": "mamboer",
@@ -43,7 +48,7 @@
     "koa-generic-session": "^2.0.1",
     "koa-router": "^7.4.0",
     "mocha": "^6.1.4",
-    "nyc": "^14.0.0",
+    "nyc": "^14.1.1",
     "supertest": "^4.0.2"
   }
 }
